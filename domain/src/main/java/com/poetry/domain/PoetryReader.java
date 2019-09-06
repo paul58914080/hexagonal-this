@@ -1,5 +1,8 @@
 package com.poetry.domain;
 
+import com.poetry.domain.ports.ObtainPoem;
+import com.poetry.domain.ports.RequestVerse;
+
 public class PoetryReader implements RequestVerse {
     private ObtainPoem obtainPoem;
 

@@ -8,13 +8,6 @@
         <artifactId>poetry-parent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-    <artifactId>acceptance-test</artifactId>
+    <artifactId>domain</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <dependencies>
-        <dependency>
-            <groupId>com.poetry</groupId>
-            <artifactId>domain</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
-    </dependencies>
 </project>

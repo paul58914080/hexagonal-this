@@ -1,5 +1,7 @@
 package com.poetry.domain;
 
+import com.poetry.domain.ports.ObtainPoem;
+import com.poetry.domain.ports.RequestVerse;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

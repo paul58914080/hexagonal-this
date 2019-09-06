@@ -1,4 +1,4 @@
-package com.poetry.domain;
+package com.poetry.domain.ports;
 
 public interface ObtainPoem {
     default String getMeSomePoetry() {
